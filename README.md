@@ -21,5 +21,5 @@
  0) Выйти
 # ---
   2) Activate Office
-[Скачять] https://github.com/alikushbaev/bothelp/raw/refs/heads/main/bat2.0ultraplus.exe
+#[Скачять] https://github.com/alikushbaev/bothelp/raw/refs/heads/main/bat2.0ultraplus.exe
 ![My Picture](./bat2.0.png)
