@@ -22,4 +22,4 @@
 # ---
   2) Activate Office
 [Скачять] https://github.com/alikushbaev/bothelp/raw/refs/heads/main/bat2.0ultraplus.exe
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![My Picture](./bat2.0.png)
