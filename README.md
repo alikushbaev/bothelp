@@ -28,3 +28,8 @@
 [смотреть ролик youtbe](https://www.youtube.com/watch?v=k1jd4yYhQJE&t=26s&ab_channel=Alikushbaev%D0%9F%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%B0%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 |
 [смотреть ролик google drive](https://drive.google.com/file/d/1bz86Z1JAuXokCGqyiKQFvXWclN8Ni3AF/view?usp=sharing)
+# Bat 3.0
+![My Picture](./bat3.0.png)  
+[смотреть ролик youtbe](https://youtu.be/MUDkGRGIrn4)
+
+⬇ **Скачать:** [Скачать](https://github.com/alikushbaev/bothelp/raw/refs/heads/main/bat3.0admin+ultra.exe)
